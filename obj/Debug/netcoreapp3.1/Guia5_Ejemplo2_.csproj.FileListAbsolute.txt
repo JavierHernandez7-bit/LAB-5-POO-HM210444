@@ -1,0 +1,32 @@
+C:\Users\Postgrados\Documents\POO HM210444\Guia5_Ejemplo2_\bin\Debug\netcoreapp3.1\Guia5_Ejemplo2_.exe
+C:\Users\Postgrados\Documents\POO HM210444\Guia5_Ejemplo2_\bin\Debug\netcoreapp3.1\Guia5_Ejemplo2_.deps.json
+C:\Users\Postgrados\Documents\POO HM210444\Guia5_Ejemplo2_\bin\Debug\netcoreapp3.1\Guia5_Ejemplo2_.runtimeconfig.json
+C:\Users\Postgrados\Documents\POO HM210444\Guia5_Ejemplo2_\bin\Debug\netcoreapp3.1\Guia5_Ejemplo2_.runtimeconfig.dev.json
+C:\Users\Postgrados\Documents\POO HM210444\Guia5_Ejemplo2_\bin\Debug\netcoreapp3.1\Guia5_Ejemplo2_.dll
+C:\Users\Postgrados\Documents\POO HM210444\Guia5_Ejemplo2_\bin\Debug\netcoreapp3.1\Guia5_Ejemplo2_.pdb
+C:\Users\Postgrados\Documents\POO HM210444\Guia5_Ejemplo2_\obj\Debug\netcoreapp3.1\Guia5_Ejemplo2_.csproj.AssemblyReference.cache
+C:\Users\Postgrados\Documents\POO HM210444\Guia5_Ejemplo2_\obj\Debug\netcoreapp3.1\Guia5_Ejemplo2_.Form1.resources
+C:\Users\Postgrados\Documents\POO HM210444\Guia5_Ejemplo2_\obj\Debug\netcoreapp3.1\Guia5_Ejemplo2_.csproj.GenerateResource.cache
+C:\Users\Postgrados\Documents\POO HM210444\Guia5_Ejemplo2_\obj\Debug\netcoreapp3.1\Guia5_Ejemplo2_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Postgrados\Documents\POO HM210444\Guia5_Ejemplo2_\obj\Debug\netcoreapp3.1\Guia5_Ejemplo2_.AssemblyInfoInputs.cache
+C:\Users\Postgrados\Documents\POO HM210444\Guia5_Ejemplo2_\obj\Debug\netcoreapp3.1\Guia5_Ejemplo2_.AssemblyInfo.cs
+C:\Users\Postgrados\Documents\POO HM210444\Guia5_Ejemplo2_\obj\Debug\netcoreapp3.1\Guia5_Ejemplo2_.csproj.CoreCompileInputs.cache
+C:\Users\Postgrados\Documents\POO HM210444\Guia5_Ejemplo2_\obj\Debug\netcoreapp3.1\Guia5_Ejemplo2_.dll
+C:\Users\Postgrados\Documents\POO HM210444\Guia5_Ejemplo2_\obj\Debug\netcoreapp3.1\Guia5_Ejemplo2_.pdb
+C:\Users\Postgrados\Documents\POO HM210444\Guia5_Ejemplo2_\obj\Debug\netcoreapp3.1\Guia5_Ejemplo2_.genruntimeconfig.cache
+D:\REPOSITORIOS VS\LAB POO\LAB 5 POO\GUIA 5 POO\Guia5_Ejemplo2_\bin\Debug\netcoreapp3.1\Guia5_Ejemplo2_.exe
+D:\REPOSITORIOS VS\LAB POO\LAB 5 POO\GUIA 5 POO\Guia5_Ejemplo2_\bin\Debug\netcoreapp3.1\Guia5_Ejemplo2_.deps.json
+D:\REPOSITORIOS VS\LAB POO\LAB 5 POO\GUIA 5 POO\Guia5_Ejemplo2_\bin\Debug\netcoreapp3.1\Guia5_Ejemplo2_.runtimeconfig.json
+D:\REPOSITORIOS VS\LAB POO\LAB 5 POO\GUIA 5 POO\Guia5_Ejemplo2_\bin\Debug\netcoreapp3.1\Guia5_Ejemplo2_.runtimeconfig.dev.json
+D:\REPOSITORIOS VS\LAB POO\LAB 5 POO\GUIA 5 POO\Guia5_Ejemplo2_\bin\Debug\netcoreapp3.1\Guia5_Ejemplo2_.dll
+D:\REPOSITORIOS VS\LAB POO\LAB 5 POO\GUIA 5 POO\Guia5_Ejemplo2_\bin\Debug\netcoreapp3.1\Guia5_Ejemplo2_.pdb
+D:\REPOSITORIOS VS\LAB POO\LAB 5 POO\GUIA 5 POO\Guia5_Ejemplo2_\obj\Debug\netcoreapp3.1\Guia5_Ejemplo2_.csproj.AssemblyReference.cache
+D:\REPOSITORIOS VS\LAB POO\LAB 5 POO\GUIA 5 POO\Guia5_Ejemplo2_\obj\Debug\netcoreapp3.1\Guia5_Ejemplo2_.Form1.resources
+D:\REPOSITORIOS VS\LAB POO\LAB 5 POO\GUIA 5 POO\Guia5_Ejemplo2_\obj\Debug\netcoreapp3.1\Guia5_Ejemplo2_.csproj.GenerateResource.cache
+D:\REPOSITORIOS VS\LAB POO\LAB 5 POO\GUIA 5 POO\Guia5_Ejemplo2_\obj\Debug\netcoreapp3.1\Guia5_Ejemplo2_.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIOS VS\LAB POO\LAB 5 POO\GUIA 5 POO\Guia5_Ejemplo2_\obj\Debug\netcoreapp3.1\Guia5_Ejemplo2_.AssemblyInfoInputs.cache
+D:\REPOSITORIOS VS\LAB POO\LAB 5 POO\GUIA 5 POO\Guia5_Ejemplo2_\obj\Debug\netcoreapp3.1\Guia5_Ejemplo2_.AssemblyInfo.cs
+D:\REPOSITORIOS VS\LAB POO\LAB 5 POO\GUIA 5 POO\Guia5_Ejemplo2_\obj\Debug\netcoreapp3.1\Guia5_Ejemplo2_.csproj.CoreCompileInputs.cache
+D:\REPOSITORIOS VS\LAB POO\LAB 5 POO\GUIA 5 POO\Guia5_Ejemplo2_\obj\Debug\netcoreapp3.1\Guia5_Ejemplo2_.dll
+D:\REPOSITORIOS VS\LAB POO\LAB 5 POO\GUIA 5 POO\Guia5_Ejemplo2_\obj\Debug\netcoreapp3.1\Guia5_Ejemplo2_.pdb
+D:\REPOSITORIOS VS\LAB POO\LAB 5 POO\GUIA 5 POO\Guia5_Ejemplo2_\obj\Debug\netcoreapp3.1\Guia5_Ejemplo2_.genruntimeconfig.cache
